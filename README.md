@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on Data Science and Machine Learning ideas.
 - 📫 How to reach me ...
-- ⚡ I like to talk about cosmology
+- ⚡ I like to talk about pc gaming
 
 
 <!---
