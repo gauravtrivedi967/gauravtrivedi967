@@ -22,4 +22,4 @@ Hi 👋, I'm Gaurav Trivedi I'm in the final year of my undergrad in Computer Sc
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=gauravtrivedi967&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=lucifer967&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
