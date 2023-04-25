@@ -7,7 +7,9 @@
 
 - 👯 I’m looking to collaborate on **Data Science and Machine Learning ideas.**
 
-- 💬 Ask me about **Machine Learning and Data Science**
+- 👨‍💻 All of my projects are available at [https://gauravtrivedi967.github.io/Portfolio/](https://gauravtrivedi967.github.io/Portfolio/)
+
+- 💬 Ask me about **Machine Learning,Data Science,FullStack**
 
 - 📫 How to reach me **gauravtrivedi967@gmail.com**
 
